@@ -121,5 +121,3 @@ Use Active Record association macros and Active Record query methods where appro
   - you will have to delete any rows from the `reviews` table associated with this user and the product
 - `User.most_reviews`
   - returns *one* User instance for the User who has given the most reviews
-
-## Rubric
